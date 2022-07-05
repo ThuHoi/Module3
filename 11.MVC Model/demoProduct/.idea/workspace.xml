@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2452575c-bc3d-4e6b-87ac-9aa058d37da2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/BT-Calculator/src/main/java/model/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/BT-Calculator/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/BT-DisplayCustomerList/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-ChangeMoney/src/main/webapp/covert.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../10.JSP&amp;JSTL/TH-SimpleDictionary/src/main/webapp/dictionary.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomerManager/src/main/java/controller/CustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomerManager/src/main/java/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomerManager/src/main/java/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomerManager/src/main/java/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomerManager/src/main/webapp/customer/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TH-CustomerManager/src/main/webapp/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../7. Thiết kế bố cục trang web/BT-LandingPage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Bootstrap cơ bản/BT-CreateGallery/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Bootstrap cơ bản/BT-CreateGallery/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Bootstrap cơ bản/BT-LandingPage/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Bootstrap cơ bản/BT-createWeb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Bootstrap cơ bản/TH-BootstrapLoginForm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../8.Bootstrap cơ bản/TH-BootstrapLoginForm/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Chuyendoitiente/src/main/java/change.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Chuyendoitiente/src/main/java/com/example/thchuyendoitiente/result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Chuyendoitiente/src/main/webapp/changemoney.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-CreateSystemTime/src/main/java/ServerTimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/src/main/java/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/src/main/java/com/example/thlogin/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../9. Serverlet/TH-Login/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2BHxISZPgigVVNGXiaxFQ4u6pw0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2452575c-bc3d-4e6b-87ac-9aa058d37da2" name="Changes" comment="" />
+      <created>1656576733051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656576733051</updated>
+      <workItem from="1656576734751" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
